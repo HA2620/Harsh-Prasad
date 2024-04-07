@@ -130,6 +130,9 @@ a {
     background-color: #ffffff08;
     backdrop-filter: blur(10px);
 }
+.coloumnItems .cardParent:hover h3{
+    color:#55D5D5
+}
 
 .year {
     line-height: 24px;
